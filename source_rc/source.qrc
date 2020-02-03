@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="hospital">
+    <file>indian_logo.png</file>
+    <file>hospital_icon.png</file>
+    <file>hospital.png</file>
+  </qresource>
+</RCC>
